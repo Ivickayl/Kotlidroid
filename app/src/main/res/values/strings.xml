@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kotlidroid</string>
+
+    <!--UI Strnigs-->
+    <string name="add">Add</string>
+    <string name="delete_all">Delete All</string>
+    <string name="luminosity_intensity">Luminosity Intensity</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="pokemon_name">Pokemon Name</string>
+
+    <!--Error Strings-->
+    <string name="null_user">Current User is null</string>
+    <string name="email_already_in_use">The email address is already in use by another account</string>
+    <string name="invalid_email_or_password">The supplied auth credential is malformed</string>
+    <string name="weak_password">The password is invalid it must be 6 characters at least</string>
+    <string name="user_disabled">The user has been disabled</string>
+    <string name="invalid_email">Email is invalid</string>
+    <string name="user_not_found">The user has been deleted or does not exist</string>
+    <string name="email_password_blank">Email and password cannot be blank</string>
+    <string name="disconnected">Disconnected</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlidroid</string>
+    <string name="add">Ajouter</string>
+    <string name="delete_all">Supprimer tout</string>
+    <string name="luminosity_intensity">Intensité lumineuse</string>
+    <string name="login">Connexion</string>
+    <string name="register">S\'enregistrer</string>
+    <string name="disconnect">Deconnexion</string>
+    <string name="pokemon_name">Nom du pokemon</string>
+    <string name="null_user">Utilisateur null</string>
+    <string name="email_already_in_use">L\'adresse email est déjà utilisée</string>
+    <string name="invalid_email_or_password">Les informations de connexions sont éronées</string>
+    <string name="weak_password">Le mot de passe doit contenir 6 caractères</string>
+    <string name="user_disabled">L\'utilisateur a été désactivé</string>
+    <string name="invalid_email">L\'email n\'est pas valide</string>
+    <string name="user_not_found">L\'utilisateur a été désactivé ou n\'existe pas</string>
+    <string name="email_password_blank">Email et mot de passe ne peuvent pas être vide</string>
+    <string name="disconnected">Déconnecté</string>
+</resources>
